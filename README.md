@@ -15,4 +15,5 @@ https://user-images.githubusercontent.com/68027073/202587613-82239a69-0f17-474d-
 ![10](https://user-images.githubusercontent.com/68027073/202587966-c1b6d9a7-d29f-4ca3-a96b-c59269103db8.png)
 
 
-simon says er skemtilegur leikur sem var funndin up árið 1978. leikurinn virkar þannig að ljós kvikna í patterni og þú átt að herma eftir ljósunum. ef þu íttir á vitlausan takka þá blika takkarnir og þú byrjar aftur.
+simon says er skemtilegur leikur sem var funndin up árið 1978. leikurinn virkar þannig að ljós kvikna í patterni og þú átt að herma eftir ljósunum. ef þu íttir á vitlausan takka þá blika takkarnir og þú byrjar aftur. ÍSAR ÖRN EINARSSON
+
